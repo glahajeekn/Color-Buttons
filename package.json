@@ -1,0 +1,28 @@
+{
+  "name": "color-buttons",
+  "version": "1.0.9",
+  "description": "Add more beautiful buttons to your website!",
+  "main": "dist/colormin.css",
+  "scripts": {
+    "build": "stylus --compress colormin.styl -o dist"
+  },
+  "keywords": [
+    "buttons",
+    "button",
+    "beautiful"
+  ],
+  "author": "Hajeekn",
+  "license": "ISC",
+  "dependencies": {
+    "stylus": "^0.54.8"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glahajeekn/Color-Buttons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glahajeekn/Color-Buttons/issues"
+  },
+  "homepage": "https://github.com/glahajeekn/Color-Buttons#readme"
+}
