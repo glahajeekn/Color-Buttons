@@ -9,4 +9,19 @@
 # What frameworks does it support
 
 ## It supports all frameworks and browsers (need to support CSS)
+----------------------------------------------------------------
+# CSS Class name:
+## button--bluegreen
+## button--blue
+## button--goldyellow
+## button--green
+## button--orange
+## button--pink
+## button--pruple
+## button--red
+## button--yellow
+----------------------------------------------------------------
+## You can use the class name for the button tag or the a tag.
+## It is recommended to use the class name for the a tag
+
 
